@@ -1,6 +1,6 @@
 {
-
-  "hyperParameters": {
-    "example_param": 0.1
-  }
+	"hyperParameters": {
+		"eta": 0.2,
+		"max_depth": 6
+	}
 }
